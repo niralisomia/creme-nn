@@ -21,7 +21,7 @@ setup(
         "Topic :: Scientific/Engineering :: Bio-Informatics",
     ],
     packages=find_packages(),
-    python_requires=">=3.6, <4",
+    python_requires=">=3.9, <4",
     # Do not install tensorflow here, because might want to use tensorflow or
     # tensorflow-cpu.
     install_requires=[
