@@ -33,7 +33,7 @@ setup(
         "logomaker",
         "matplotlib",
         "seaborn",
-        "protobuf==3.20",
+        "protobuf",
     ],
     extras_require={
         "dev": [
